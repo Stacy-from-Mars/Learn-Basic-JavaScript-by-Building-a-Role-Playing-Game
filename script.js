@@ -1,1 +1,1 @@
-let xp;
+let xp = 0;
