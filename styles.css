@@ -30,3 +30,7 @@ body {
     color: #ffffff;
     background-color: #c70d0d;
 }
+
+.stat {
+    padding-right: 10px;
+}
