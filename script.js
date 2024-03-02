@@ -69,7 +69,7 @@ function fightDragon() {
 }
 
 function buyHealth() {
-
+    gold = gold - 10;
 }
 
 function buyWeapon() {
