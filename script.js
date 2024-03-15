@@ -185,7 +185,7 @@ function dodge() {
 }
 
 function lose() {
-    
+    update(locations[5]);
 }
 
 function defeatMonster() {
